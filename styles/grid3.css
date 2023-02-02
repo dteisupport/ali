@@ -33,12 +33,12 @@
 
 .banner {
   display: flex;
-  height: 100px;
+  height: auto;
   background-color: #FFFFFF;
   border: 2px solid #dcdcdc;
   border-radius: 10px;
   margin: 15px 5px 15px 25px;
-  padding: 15px;
+  padding: 25px;
 }
 
 .banner-icon {
