@@ -20,7 +20,14 @@
     --orange: #f19337;
 }
 
+
 .banner-wrapper {
+    display: flex;
+    justify-content: center;
+    min-height: 100%;
+}
+
+.banner-grid {
     flex: 0 1 92rem;
     display: grid;
     /* grid-template-columns: minmax(18.8rem, 2fr) 5fr minmax(18.8rem, 2fr); */
