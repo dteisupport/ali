@@ -62,6 +62,7 @@
   text-align:left;
   width: 85%;
   padding-left: 40px;
+  background-color: #FFFFFF;
 }
 
 .image-container {
@@ -73,6 +74,7 @@
   display: flex; /* enable flexbox layout */
   align-items: center; /* center the image vertically */
   justify-content: center; /* center the image horizontally */
+  background-color: #FFFFFF;
 }
 
 .sr-only:not(:focus):not(:active) {
